@@ -1,0 +1,6 @@
+[couchdb]
+db=thistoken
+
+[autoupdate]
+_id=_design/public
+type=token map
